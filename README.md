@@ -61,9 +61,10 @@ This will start the development server, and you can access the website in your w
 Feel free to customize the content, add your projects, and tailor the website to your preferences.
 
 ## Technologies Used
-
 React.js
 HTML5
 CSS3
 JavaScript
 
+## License
+This project is open-source and available under the MIT License.
