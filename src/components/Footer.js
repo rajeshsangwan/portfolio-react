@@ -46,10 +46,11 @@ const Footer = () => {
         <div className="right">
           <h4>About Me</h4>
           <p>
-            Lorem ipsum dolor sit, amet consectetur adipisicing elit. Iste
-            aliquid quos, neque, unde excepturi dolores, officiis facere
-            cupiditate suscipit labore maiores harum corporis ducimus tenetur
-            aut magnam aspernatur perspiciatis! Vero, enim nulla.
+            I am a final year Computer Science and Engineering student at the
+            prestigious Indian Institute of Technology (IIT) Jodhpur, where my
+            passion for technology and innovation has flourished. With a diverse
+            set of skills and a thirst for knowledge, I am on a relentless
+            pursuit of excellence in the world of technology.
           </p>
           <div className="social">
             <FaInstagram
